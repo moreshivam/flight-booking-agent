@@ -1,0 +1,27 @@
+# Core LLM & Agent Framework
+langgraph
+langchain
+langchain-groq
+langchain-community
+
+# LangGraph Memory (SQLite - no server needed)
+langgraph-checkpoint-sqlite
+
+# APIs
+google-search-results   # SerpAPI SDK - Google Flights + Google Hotels
+requests                # Open-Meteo, REST Countries, ExchangeRate-API
+
+# Frontend
+streamlit
+streamlit-folium        # Embed interactive maps in Streamlit
+
+# Maps & Visualization
+folium                  # Interactive flight route + destination map
+plotly                  # Price comparison charts
+
+# Export
+fpdf2                   # PDF itinerary export
+icalendar               # Calendar .ics export
+
+# Utilities
+python-dotenv
